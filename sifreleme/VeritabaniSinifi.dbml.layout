@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="VeritabaniSinifi">
+  <DataContextMoniker Name="/VeritabaniSinifiDataContext" />
+  <nestedChildShapes>
+    <classShape Id="d951d92d-b7d2-4af7-a866-e86c96316dd4" absoluteBounds="2.75, 2.5, 2, 1.9631982421875">
+      <DataClassMoniker Name="/VeritabaniSinifiDataContext/mesajlar" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3876bc67-3471-48d2-af89-50852cc7c14f" absoluteBounds="2.7649999999999997, 2.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="139249c6-ebfe-470b-8ead-124baef25bcf" absoluteBounds="2.875, 0.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/VeritabaniSinifiDataContext/silinenmesajlar" />
+      <nestedChildShapes>
+        <elementListCompartment Id="22c4e0d4-dc48-45be-8764-750ba3eb41e7" absoluteBounds="2.8899999999999997, 0.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cea4e947-80cb-4f66-bb5d-b23304cdafa3" absoluteBounds="0.5, 0.5, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/VeritabaniSinifiDataContext/kullanicilar" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6f4524ad-d8ad-4bfc-b32c-fbe91ee0dfaf" absoluteBounds="0.51500000000000012, 0.96, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

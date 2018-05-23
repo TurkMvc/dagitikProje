@@ -1,0 +1,171 @@
+C:\Users\aykut\Desktop\Kriptoloji_ödev\Sistem_programlama\sifreleme\bin\Debug\sifreleme.exe.config
+C:\Users\aykut\Desktop\Kriptoloji_ödev\Sistem_programlama\sifreleme\bin\Debug\sifreleme.exe
+C:\Users\aykut\Desktop\Kriptoloji_ödev\Sistem_programlama\sifreleme\bin\Debug\sifreleme.pdb
+C:\Users\aykut\Desktop\Kriptoloji_ödev\Sistem_programlama\sifreleme\obj\Debug\sifreleme.csprojResolveAssemblyReference.cache
+C:\Users\aykut\Desktop\Kriptoloji_ödev\Sistem_programlama\sifreleme\obj\Debug\sifreleme.Properties.Resources.resources
+C:\Users\aykut\Desktop\Kriptoloji_ödev\Sistem_programlama\sifreleme\obj\Debug\sifreleme.csproj.GenerateResource.Cache
+C:\Users\aykut\Desktop\Kriptoloji_ödev\Sistem_programlama\sifreleme\obj\Debug\sifreleme.exe
+C:\Users\aykut\Desktop\Kriptoloji_ödev\Sistem_programlama\sifreleme\obj\Debug\sifreleme.pdb
+C:\Users\aykut\Desktop\Kriptoloji_ödev\Sistem_programlama\sifreleme\obj\Debug\sifreleme.kayit.resources
+C:\Users\aykut\Desktop\Kriptoloji_ödev\Sistem_programlama\sifreleme\obj\Debug\sifreleme.Giris.resources
+C:\Users\kinan\Desktop\Kriptoloji_ödev\Sistem_programlama\sifreleme\bin\Debug\sifreleme.exe.config
+C:\Users\kinan\Desktop\Kriptoloji_ödev\Sistem_programlama\sifreleme\bin\Debug\sifreleme.exe
+C:\Users\kinan\Desktop\Kriptoloji_ödev\Sistem_programlama\sifreleme\bin\Debug\sifreleme.pdb
+C:\Users\kinan\Desktop\Kriptoloji_ödev\Sistem_programlama\sifreleme\obj\Debug\sifreleme.csprojResolveAssemblyReference.cache
+C:\Users\kinan\Desktop\Kriptoloji_ödev\Sistem_programlama\sifreleme\obj\Debug\sifreleme.Giris.resources
+C:\Users\kinan\Desktop\Kriptoloji_ödev\Sistem_programlama\sifreleme\obj\Debug\sifreleme.kayit.resources
+C:\Users\kinan\Desktop\Kriptoloji_ödev\Sistem_programlama\sifreleme\obj\Debug\sifreleme.KullaniciListesi.resources
+C:\Users\kinan\Desktop\Kriptoloji_ödev\Sistem_programlama\sifreleme\obj\Debug\sifreleme.Properties.Resources.resources
+C:\Users\kinan\Desktop\Kriptoloji_ödev\Sistem_programlama\sifreleme\obj\Debug\sifreleme.csproj.GenerateResource.Cache
+C:\Users\kinan\Desktop\Kriptoloji_ödev\Sistem_programlama\sifreleme\obj\Debug\sifreleme.exe
+C:\Users\kinan\Desktop\Kriptoloji_ödev\Sistem_programlama\sifreleme\obj\Debug\sifreleme.pdb
+E:\Kriptoloji_ödev\Sistem_programlama\sifreleme\bin\Debug\sifreleme.exe.config
+E:\Kriptoloji_ödev\Sistem_programlama\sifreleme\obj\Debug\sifreleme.exe
+E:\Kriptoloji_ödev\Sistem_programlama\sifreleme\obj\Debug\sifreleme.pdb
+E:\Kriptoloji_ödev\Sistem_programlama\sifreleme\bin\Debug\sifreleme.exe
+E:\Kriptoloji_ödev\Sistem_programlama\sifreleme\bin\Debug\sifreleme.pdb
+E:\Kriptoloji_ödev\Sistem_programlama\sifreleme\obj\Debug\sifreleme.csprojResolveAssemblyReference.cache
+E:\Kriptoloji_ödev\Sistem_programlama\sifreleme\obj\Debug\sifreleme.Giris.resources
+E:\Kriptoloji_ödev\Sistem_programlama\sifreleme\obj\Debug\sifreleme.kayit.resources
+E:\Kriptoloji_ödev\Sistem_programlama\sifreleme\obj\Debug\sifreleme.KullaniciListesi.resources
+E:\Kriptoloji_ödev\Sistem_programlama\sifreleme\obj\Debug\sifreleme.Properties.Resources.resources
+E:\Kriptoloji_ödev\Sistem_programlama\sifreleme\obj\Debug\sifreleme.csproj.GenerateResource.Cache
+E:\Kriptoloji_ödev\isletim_sistemleri\sifreleme\bin\Debug\sifreleme.exe.config
+E:\Kriptoloji_ödev\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.exe
+E:\Kriptoloji_ödev\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.pdb
+E:\Kriptoloji_ödev\isletim_sistemleri\sifreleme\bin\Debug\sifreleme.exe
+E:\Kriptoloji_ödev\isletim_sistemleri\sifreleme\bin\Debug\sifreleme.pdb
+E:\Kriptoloji_ödev\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.csprojResolveAssemblyReference.cache
+E:\Kriptoloji_ödev\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Giris.resources
+E:\Kriptoloji_ödev\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.kayit.resources
+E:\Kriptoloji_ödev\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.KullaniciListesi.resources
+E:\Kriptoloji_ödev\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Properties.Resources.resources
+E:\Kriptoloji_ödev\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.csproj.GenerateResource.Cache
+E:\Kriptoloji_ödev\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Sohbet.resources
+C:\Users\aykut\Desktop\kriptoloji_30-\isletim_sistemleri\sifreleme\bin\Debug\sifreleme.exe.config
+C:\Users\aykut\Desktop\kriptoloji_30-\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.exe
+C:\Users\aykut\Desktop\kriptoloji_30-\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.pdb
+C:\Users\aykut\Desktop\kriptoloji_30-\isletim_sistemleri\sifreleme\bin\Debug\sifreleme.exe
+C:\Users\aykut\Desktop\kriptoloji_30-\isletim_sistemleri\sifreleme\bin\Debug\sifreleme.pdb
+C:\Users\aykut\Desktop\kriptoloji_30-\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.csprojResolveAssemblyReference.cache
+C:\Users\aykut\Desktop\kriptoloji_30-\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Giris.resources
+C:\Users\aykut\Desktop\kriptoloji_30-\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.kayit.resources
+C:\Users\aykut\Desktop\kriptoloji_30-\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.KullaniciListesi.resources
+C:\Users\aykut\Desktop\kriptoloji_30-\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Properties.Resources.resources
+C:\Users\aykut\Desktop\kriptoloji_30-\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Sohbet.resources
+C:\Users\aykut\Desktop\kriptoloji_30-\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.csproj.GenerateResource.Cache
+C:\Users\kinan\Desktop\kriptoloji_30-\isletim_sistemleri\sifreleme\bin\Debug\sifreleme.exe.config
+C:\Users\kinan\Desktop\kriptoloji_30-\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.exe
+C:\Users\kinan\Desktop\kriptoloji_30-\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.pdb
+C:\Users\kinan\Desktop\kriptoloji_30-\isletim_sistemleri\sifreleme\bin\Debug\sifreleme.exe
+C:\Users\kinan\Desktop\kriptoloji_30-\isletim_sistemleri\sifreleme\bin\Debug\sifreleme.pdb
+C:\Users\kinan\Desktop\kriptoloji_30-\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.csprojResolveAssemblyReference.cache
+C:\Users\kinan\Desktop\kriptoloji_30-\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Giris.resources
+C:\Users\kinan\Desktop\kriptoloji_30-\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.kayit.resources
+C:\Users\kinan\Desktop\kriptoloji_30-\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.KullaniciListesi.resources
+C:\Users\kinan\Desktop\kriptoloji_30-\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Properties.Resources.resources
+C:\Users\kinan\Desktop\kriptoloji_30-\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Sohbet.resources
+C:\Users\kinan\Desktop\kriptoloji_30-\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.csproj.GenerateResource.Cache
+C:\Users\aykut\Desktop\kriptoloji_30-\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Bildirim.resources
+J:\Deneme\kriptoloji_30-\isletim_sistemleri\sifreleme\bin\Debug\sifreleme.exe.config
+J:\Deneme\kriptoloji_30-\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.exe
+J:\Deneme\kriptoloji_30-\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.pdb
+J:\Deneme\kriptoloji_30-\isletim_sistemleri\sifreleme\bin\Debug\sifreleme.exe
+J:\Deneme\kriptoloji_30-\isletim_sistemleri\sifreleme\bin\Debug\sifreleme.pdb
+J:\Deneme\kriptoloji_30-\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.csprojResolveAssemblyReference.cache
+J:\Deneme\kriptoloji_30-\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Bildirim.resources
+J:\Deneme\kriptoloji_30-\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Giris.resources
+J:\Deneme\kriptoloji_30-\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.kayit.resources
+J:\Deneme\kriptoloji_30-\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.KullaniciListesi.resources
+J:\Deneme\kriptoloji_30-\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Properties.Resources.resources
+J:\Deneme\kriptoloji_30-\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Sohbet.resources
+J:\Deneme\kriptoloji_30-\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.csproj.GenerateResource.Cache
+F:\Deneme\kriptoloji_30-\isletim_sistemleri\sifreleme\bin\Debug\sifreleme.exe.config
+F:\Deneme\kriptoloji_30-\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.exe
+F:\Deneme\kriptoloji_30-\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.pdb
+C:\Users\MICROSOFT-PC\Desktop\isletim_sistemleri\sifreleme\bin\Debug\sifreleme.exe.config
+C:\Users\MICROSOFT-PC\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.exe
+C:\Users\MICROSOFT-PC\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.pdb
+C:\Users\MICROSOFT-PC\Desktop\isletim_sistemleri\sifreleme\bin\Debug\sifreleme.exe
+C:\Users\MICROSOFT-PC\Desktop\isletim_sistemleri\sifreleme\bin\Debug\sifreleme.pdb
+C:\Users\MICROSOFT-PC\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.csprojResolveAssemblyReference.cache
+C:\Users\MICROSOFT-PC\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Bildirim.resources
+C:\Users\MICROSOFT-PC\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Giris.resources
+C:\Users\MICROSOFT-PC\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.kayit.resources
+C:\Users\MICROSOFT-PC\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.KullaniciListesi.resources
+C:\Users\MICROSOFT-PC\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Properties.Resources.resources
+C:\Users\MICROSOFT-PC\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Sohbet.resources
+C:\Users\MICROSOFT-PC\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.csproj.GenerateResource.Cache
+C:\Users\MICROSOFT-PC\Desktop\kripto son uygulama\isletim_sistemleri\sifreleme\bin\Debug\sifreleme.exe.config
+C:\Users\MICROSOFT-PC\Desktop\kripto son uygulama\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.exe
+C:\Users\MICROSOFT-PC\Desktop\kripto son uygulama\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.pdb
+C:\Users\MICROSOFT-PC\Desktop\kripto\kripto son uygulama\isletim_sistemleri\sifreleme\bin\Debug\sifreleme.exe.config
+C:\Users\MICROSOFT-PC\Desktop\kripto\kripto son uygulama\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.exe
+C:\Users\MICROSOFT-PC\Desktop\kripto\kripto son uygulama\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.pdb
+C:\Users\MICROSOFT-PC\Desktop\kripto\kripto son uygulama\isletim_sistemleri\sifreleme\bin\Debug\sifreleme.exe
+C:\Users\MICROSOFT-PC\Desktop\kripto\kripto son uygulama\isletim_sistemleri\sifreleme\bin\Debug\sifreleme.pdb
+C:\Users\MICROSOFT-PC\Desktop\kripto\kripto son uygulama\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.csprojResolveAssemblyReference.cache
+C:\Users\MICROSOFT-PC\Desktop\kripto\kripto son uygulama\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Bildirim.resources
+C:\Users\MICROSOFT-PC\Desktop\kripto\kripto son uygulama\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Giris.resources
+C:\Users\MICROSOFT-PC\Desktop\kripto\kripto son uygulama\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.kayit.resources
+C:\Users\MICROSOFT-PC\Desktop\kripto\kripto son uygulama\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.KullaniciListesi.resources
+C:\Users\MICROSOFT-PC\Desktop\kripto\kripto son uygulama\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Properties.Resources.resources
+C:\Users\MICROSOFT-PC\Desktop\kripto\kripto son uygulama\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Sohbet.resources
+C:\Users\MICROSOFT-PC\Desktop\kripto\kripto son uygulama\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.csproj.GenerateResource.Cache
+C:\Users\aykut\Desktop\kriptoloji_30-\ahmet Düzenleme\kripto son uygulama\isletim_sistemleri\sifreleme\bin\Debug\sifreleme.exe.config
+C:\Users\aykut\Desktop\kriptoloji_30-\ahmet Düzenleme\kripto son uygulama\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.exe
+C:\Users\aykut\Desktop\kriptoloji_30-\ahmet Düzenleme\kripto son uygulama\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.pdb
+C:\Users\aykut\Desktop\kriptoloji_30-\ahmet Düzenleme\kripto son uygulama\isletim_sistemleri\sifreleme\bin\Debug\sifreleme.exe
+C:\Users\aykut\Desktop\kriptoloji_30-\ahmet Düzenleme\kripto son uygulama\isletim_sistemleri\sifreleme\bin\Debug\sifreleme.pdb
+C:\Users\aykut\Desktop\kriptoloji_30-\ahmet Düzenleme\kripto son uygulama\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.csprojResolveAssemblyReference.cache
+C:\Users\aykut\Desktop\kriptoloji_30-\ahmet Düzenleme\kripto son uygulama\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Bildirim.resources
+C:\Users\aykut\Desktop\kriptoloji_30-\ahmet Düzenleme\kripto son uygulama\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Giris.resources
+C:\Users\aykut\Desktop\kriptoloji_30-\ahmet Düzenleme\kripto son uygulama\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.kayit.resources
+C:\Users\aykut\Desktop\kriptoloji_30-\ahmet Düzenleme\kripto son uygulama\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.KullaniciListesi.resources
+C:\Users\aykut\Desktop\kriptoloji_30-\ahmet Düzenleme\kripto son uygulama\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Properties.Resources.resources
+C:\Users\aykut\Desktop\kriptoloji_30-\ahmet Düzenleme\kripto son uygulama\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Sohbet.resources
+C:\Users\aykut\Desktop\kriptoloji_30-\ahmet Düzenleme\kripto son uygulama\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.csproj.GenerateResource.Cache
+C:\Users\alpay\Desktop\isletim_sistemleri\sifreleme\bin\Debug\sifreleme.exe.config
+C:\Users\alpay\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.exe
+C:\Users\alpay\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.pdb
+C:\Users\alpay\Desktop\isletim_sistemleri\sifreleme\bin\Debug\sifreleme.exe
+C:\Users\alpay\Desktop\isletim_sistemleri\sifreleme\bin\Debug\sifreleme.pdb
+C:\Users\alpay\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Bildirim.resources
+C:\Users\alpay\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Giris.resources
+C:\Users\alpay\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.kayit.resources
+C:\Users\alpay\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.KullaniciListesi.resources
+C:\Users\alpay\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Properties.Resources.resources
+C:\Users\alpay\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Sohbet.resources
+C:\Users\alpay\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.csproj.GenerateResource.Cache
+C:\Users\alpay\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.KisiListesi.resources
+C:\Users\alpay\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.csprojResolveAssemblyReference.cache
+C:\Users\Black Warrior\Desktop\isletim_sistemleri\sifreleme\bin\Debug\sifreleme.exe.config
+C:\Users\Black Warrior\Desktop\isletim_sistemleri\sifreleme\bin\Debug\sifreleme.exe
+C:\Users\Black Warrior\Desktop\isletim_sistemleri\sifreleme\bin\Debug\sifreleme.pdb
+C:\Users\Black Warrior\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Bildirim.resources
+C:\Users\Black Warrior\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Giris.resources
+C:\Users\Black Warrior\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.kayit.resources
+C:\Users\Black Warrior\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.KisiListesi.resources
+C:\Users\Black Warrior\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.KullaniciListesi.resources
+C:\Users\Black Warrior\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Properties.Resources.resources
+C:\Users\Black Warrior\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.Sohbet.resources
+C:\Users\Black Warrior\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.csproj.GenerateResource.Cache
+C:\Users\Black Warrior\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.csproj.CoreCompileInputs.cache
+C:\Users\Black Warrior\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.exe
+C:\Users\Black Warrior\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.pdb
+C:\Users\Black Warrior\Desktop\isletim_sistemleri\sifreleme\obj\Debug\sifreleme.csprojResolveAssemblyReference.cache
+C:\Users\Black Warrior\Desktop\bırakdagıtıkkalsın\sifreleme\bin\Debug\sifreleme.exe.config
+C:\Users\Black Warrior\Desktop\bırakdagıtıkkalsın\sifreleme\bin\Debug\sifreleme.exe
+C:\Users\Black Warrior\Desktop\bırakdagıtıkkalsın\sifreleme\bin\Debug\sifreleme.pdb
+C:\Users\Black Warrior\Desktop\bırakdagıtıkkalsın\sifreleme\obj\Debug\sifreleme.csprojResolveAssemblyReference.cache
+C:\Users\Black Warrior\Desktop\bırakdagıtıkkalsın\sifreleme\obj\Debug\sifreleme.Bildirim.resources
+C:\Users\Black Warrior\Desktop\bırakdagıtıkkalsın\sifreleme\obj\Debug\sifreleme.Giris.resources
+C:\Users\Black Warrior\Desktop\bırakdagıtıkkalsın\sifreleme\obj\Debug\sifreleme.kayit.resources
+C:\Users\Black Warrior\Desktop\bırakdagıtıkkalsın\sifreleme\obj\Debug\sifreleme.KisiListesi.resources
+C:\Users\Black Warrior\Desktop\bırakdagıtıkkalsın\sifreleme\obj\Debug\sifreleme.KullaniciListesi.resources
+C:\Users\Black Warrior\Desktop\bırakdagıtıkkalsın\sifreleme\obj\Debug\sifreleme.Properties.Resources.resources
+C:\Users\Black Warrior\Desktop\bırakdagıtıkkalsın\sifreleme\obj\Debug\sifreleme.Sohbet.resources
+C:\Users\Black Warrior\Desktop\bırakdagıtıkkalsın\sifreleme\obj\Debug\sifreleme.csproj.GenerateResource.Cache
+C:\Users\Black Warrior\Desktop\bırakdagıtıkkalsın\sifreleme\obj\Debug\sifreleme.csproj.CoreCompileInputs.cache
+C:\Users\Black Warrior\Desktop\bırakdagıtıkkalsın\sifreleme\obj\Debug\sifreleme.exe
+C:\Users\Black Warrior\Desktop\bırakdagıtıkkalsın\sifreleme\obj\Debug\sifreleme.pdb

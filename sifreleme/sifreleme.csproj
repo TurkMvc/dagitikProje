@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{41577595-2FFB-4EF9-B00C-6E9CF8ADD869}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>sifreleme</RootNamespace>
+    <AssemblyName>sifreleme</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Data.Entity.Design" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Data.Services" />
+    <Reference Include="System.Data.Services.Client" />
+    <Reference Include="System.Data.Services.Design" />
+    <Reference Include="System.Data.SqlXml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="View\Bildirim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Bildirim.Designer.cs">
+      <DependentUpon>Bildirim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controller_Sinifi\Kullanici_Controller.cs" />
+    <Compile Include="Controller_Sinifi\Mesaj_Controller.cs" />
+    <Compile Include="Controller_Sinifi\Mesaj_Silme_Controller.cs" />
+    <Compile Include="Guncelleme_siniflari\Mesaj_Sil_Güncelle.cs" />
+    <Compile Include="Kayit_Siniflari\Mesaj_kayit.cs" />
+    <Compile Include="View\KisiListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\KisiListesi.Designer.cs">
+      <DependentUpon>KisiListesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listeleme\Gelen_Mesaj_Kontrol.cs" />
+    <Compile Include="Listeleme\Mesaj_listeleme.cs" />
+    <Compile Include="Model_Siniflari\Mesaj_Model.cs" />
+    <Compile Include="Guncelleme_siniflari\Kullanici_Durum.cs" />
+    <Compile Include="View\Kayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Kayit.Designer.cs">
+      <DependentUpon>Kayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Giris.Designer.cs">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kayit_Siniflari\Kullanici_Kayit.cs" />
+    <Compile Include="View\KullaniciListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\KullaniciListesi.Designer.cs">
+      <DependentUpon>KullaniciListesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listeleme\Giris_Sinif.cs" />
+    <Compile Include="Listeleme\Kayıt_Kontrol.cs" />
+    <Compile Include="Listeleme\Konusma_listesi.cs" />
+    <Compile Include="Model_Siniflari\Kullanici_Sinif.cs" />
+    <Compile Include="Model_Siniflari\Mesaj_Silme_Model.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sifreleme_Okuma\MD5_Sifrele.cs" />
+    <Compile Include="Sifreleme_Okuma\Sifrele_Coz.cs" />
+    <Compile Include="View\Sohbet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Sohbet.Designer.cs">
+      <DependentUpon>Sohbet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VeritabaniSinifi.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VeritabaniSinifi.dbml</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="View\Bildirim.resx">
+      <DependentUpon>Bildirim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Giris.resx">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Kayit.resx">
+      <DependentUpon>Kayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\KisiListesi.resx">
+      <DependentUpon>KisiListesi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\KullaniciListesi.resx">
+      <DependentUpon>KullaniciListesi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="View\Sohbet.resx">
+      <DependentUpon>Sohbet.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="VeritabaniSinifi.dbml.layout">
+      <DependentUpon>VeritabaniSinifi.dbml</DependentUpon>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="VeritabaniSinifi.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>VeritabaniSinifi.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arkaplan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giris_yap" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giris" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kayitol" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profil.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_2profil1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
